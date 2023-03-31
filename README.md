@@ -1,4 +1,3 @@
 Die einzelnen Sprints, mit backlock, und IntelliJ Projekte sind unter Sprints und Dokumentation.
-Im Sprint 3 müsste die Cards class ausgeführt werden um das Projekt zu Starten. Dazu muss die Connector J libary instaliert sein
-
-Leider gibt es bei Sprint 4: Finale exportierte version noch schwichichkeiten diese wird folgen 
+Die Finale Version ist unter Sprint 3. Um das Programm aus zu führen einfach die cards class straten.
+Um das Projekt aus zu führen muss in Prooject Structure unter modules die ConnectorJ dependencie installiert sein.
